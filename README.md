@@ -1,8 +1,7 @@
-# React + Vite
+<h1 align="center">React y Redux Toolkit CRUD (con TailwindCSS)</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img src="https://img.shields.io/badge/STATUS-FINALIZADO-green" display="inline" >
 
-Currently, two official plugins are available:
+Con este proyecto pude aprender las bases de Redux de forma práctica usando Redux Toolkit y React. En este ejemplo práctico aprendí como crear una aplicacion web CRUD (Create, Read, Update, Delete) desde cero, usando Vite, react-redux y redux-toolkit. Para finalmente añadir TailwindCSS como framework de CSS.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Opera Instantánea_2024-07-19_184832_adore1968 github io](https://github.com/user-attachments/assets/9c39f21d-d69c-4189-b12f-104c1d57b8e6)
